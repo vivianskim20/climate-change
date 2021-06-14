@@ -30,6 +30,6 @@ In this file, you will find the programming portion of the project. I used the l
 The survey used to collect the dataset is shown here. I added these questions in my Notebook for convenience as well.
 
 ### Dataset
-The link to this dataset is: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/8Z7M4G.
+The link to this dataset is: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/8Z7M4G. This is part of the research project done by Salomon, Preston, and Tannenbaum about the causes of peoples’ attitudes and beliefs about climate change in 2015.
 
 
