@@ -9,7 +9,8 @@ Discord: vivian kim (vivian#5027)
 ## Table of Contents
 1. Storyboard
 2. Notebook
-3. GitHub
+3. Survey
+4. Dataset
 
 ## Purpose
 Analyzing how Americans think/feel about climate change to suggest ways to raise awareness.
