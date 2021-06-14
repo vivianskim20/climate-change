@@ -20,6 +20,8 @@ I'm a graduating senior studying physics and data science. I was always somewhat
 3. Survey
 4. Dataset
 
+Every file in this repository can be also found in my Google Drive (https://drive.google.com/drive/folders/1S5Ys2fv0L0xWvG6Gx8jBeZYuqU6_a8sj?usp=sharing).
+
 ### Storyboard
 This file has the overview of my project. It does not provide any programming details on how I came to certain conclusions, yet it shows the answers and analysis to my questions.
 
