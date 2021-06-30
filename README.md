@@ -4,7 +4,7 @@ Vivian Kim
 
 Email: vivianskim20@berkeley.edu
 
-Discord: vivian kim (vivian#5027)
+Discord: vivian(vivian#5027)
 
 ## Little bit about myself...
 I'm a graduating senior studying physics and data science. I was always somewhat interested in environmental issues, but during the COVID-19 pandemic lockdown, I had lots of time to dive deeper. The United States, between 2016 to 2020, openly neglected some of the serious green policies and some ongoing environmental tragedies were labeled as "hoaxes." Then I got curious -- what makes someone environmentally-unfriendly. This project is my attempt to understand different opinions on climate change based on demographics and find efficient ways to have people get involved in conserving environment.
