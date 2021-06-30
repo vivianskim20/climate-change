@@ -23,7 +23,7 @@ I'm a graduating senior studying physics and data science. I was always somewhat
 Every file in this repository can be also found in my Google Drive (https://drive.google.com/drive/folders/1S5Ys2fv0L0xWvG6Gx8jBeZYuqU6_a8sj?usp=sharing).
 
 ### Storyboard
-This file has the overview of my project. It does not provide any programming details on how I came to certain conclusions, yet it shows the answers and analysis to my questions.
+This file has the overview of my project. It does not provide any programming details on how I came to certain conclusions.
 
 ### Notebook
 In this file, you will find the programming portion of the project. I used the language Python, specifically the Pandas library, to sort and clean the dataset I obtained from Harvard Dataverse. To visualize, I used the Bokeh package. I added comments to most steps I took, so you can easily follow how I got to my conclusions.
