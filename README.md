@@ -24,6 +24,7 @@ Every file in this repository can be also found in my Google Drive (https://driv
 
 ### Storyboard
 This file has the overview of my project. It does not provide any programming details on how I came to certain conclusions.
+![alt text](https://github.com/vivianskim20/climate-change/blob/main/storyboard.png)
 
 ### Notebook
 In this file, you will find the programming portion of the project. I used the language Python, specifically the Pandas library to sort and clean the dataset I obtained from Harvard Dataverse. To visualize, I used the Bokeh and Seaborn packages. For statistical analysis, I utilized scipy.stats. I added comments to most of the steps I took, so you can easily follow how my conclusions are drawn.
