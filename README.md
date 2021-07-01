@@ -17,8 +17,9 @@ I'm a graduating senior studying physics and data science. I was always somewhat
 ## Table of Contents
 1. Storyboard
 2. Notebook
-3. Survey
-4. Dataset
+3. Dataset
+4. Survey
+5. Poster
 
 Every file in this repository can be also found in my Google Drive (https://drive.google.com/drive/folders/1S5Ys2fv0L0xWvG6Gx8jBeZYuqU6_a8sj?usp=sharing).
 
