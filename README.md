@@ -12,13 +12,13 @@ I'm a graduating senior studying physics and data science. I was always somewhat
 ## Purpose
 - Analyze how Americans think/feel about climate change depending on their gender, age, and political preference
 - Identify popular and unpopular energy-saving activities and green policies and reasons behind
-- Investigate the respondants who filled out "unsure" to the free-response question asking if they can guess what the purpose of the survey is
+- Investigate the respondants who responded "unsure" to the free-response question asking if they can guess what the purpose of the survey is
 
 ## Table of Contents
 1. Storyboard
-2. Notebook
-3. Dataset
-4. Survey
+2. Dataset
+3. Survey
+4. Notebook
 5. Poster
 
 Every file in this repository can be also found in my Google Drive (https://drive.google.com/drive/folders/1S5Ys2fv0L0xWvG6Gx8jBeZYuqU6_a8sj?usp=sharing).
