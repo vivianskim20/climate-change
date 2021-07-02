@@ -21,7 +21,7 @@ I'm a graduating senior studying physics and data science. I was always somewhat
 4. Notebook
 5. Poster
 
-Every file in this repository can be also found in my Google Drive (https://drive.google.com/drive/folders/1S5Ys2fv0L0xWvG6Gx8jBeZYuqU6_a8sj?usp=sharing).
+All of the above files are also found in my Google Drive (https://drive.google.com/drive/folders/1S5Ys2fv0L0xWvG6Gx8jBeZYuqU6_a8sj?usp=sharing).
 
 ### Storyboard
 It's the overview of my project. It does not provide any programming details on statistical analysis.
