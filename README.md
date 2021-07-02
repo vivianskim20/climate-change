@@ -24,7 +24,7 @@ I'm a graduating senior studying physics and data science. I was always somewhat
 All of the above files are also found in my Google Drive (https://drive.google.com/drive/folders/1S5Ys2fv0L0xWvG6Gx8jBeZYuqU6_a8sj?usp=sharing).
 
 ### Storyboard
-It's the overview of my project. It does not provide any programming details on statistical analysis.
+It's the overview of my project. It does not provide any programming details on statistical analysis (refer to my Notebook).
 ![alt text](https://github.com/vivianskim20/climate-change/blob/main/storyboard.png)
 
 ### Dataset
