@@ -24,7 +24,7 @@ I'm a graduating senior studying physics and data science. I was always somewhat
 Every file in this repository can be also found in my Google Drive (https://drive.google.com/drive/folders/1S5Ys2fv0L0xWvG6Gx8jBeZYuqU6_a8sj?usp=sharing).
 
 ### Storyboard
-This file has the overview of my project. It does not provide any programming details on how I came to certain conclusions.
+It's the overview of my project. It does not provide any programming details on statistical analysis.
 ![alt text](https://github.com/vivianskim20/climate-change/blob/main/storyboard.png)
 
 ### Dataset
@@ -34,9 +34,10 @@ The link to this dataset is: https://dataverse.harvard.edu/dataset.xhtml?persist
 The survey used to collect the dataset is shown here. I added these questions in my Python Notebook for convenience as well.
 
 ### Notebook
-In this file, you will find the programming portion of the project. I used the language Python, specifically the Pandas library to sort and clean the dataset I obtained from Harvard Dataverse. To visualize, I used the Bokeh and Seaborn packages. For statistical analysis, I utilized scipy.stats. I added comments to most of the steps I took, so you can easily follow how my conclusions are drawn.
+In this file, you will find the programming portion of the project. I used the language Python, specifically the Pandas library to sort and clean the dataset I obtained from Harvard Dataverse. To visualize, I used the Bokeh and Seaborn packages. For statistical analysis, I utilized scipy.stats and sklearn. I added comments to most of the steps I took, which anyone can easily follow how my conclusions are drawn. 
 
 ### Poster
+Similar to the storyboard, but has detailed procedures and conclusions from statistical tests. Important graphs/visualizations from the Notebook are also presented in here.
 
 
 
